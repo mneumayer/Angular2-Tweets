@@ -1,2 +1,2 @@
 # Angular2-Tweets
-This Angular2 components displays tweets from an Object.
+This Angular2 Component displays tweets from a Service Object.
